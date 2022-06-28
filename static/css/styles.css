@@ -1,0 +1,38 @@
+body {
+background-color:Black;
+}
+
+.princedaniel {
+color:White;
+
+}
+
+div {
+background-color:gray;
+width:70%;
+}
+
+.div-header {
+background-color:Black;
+width:100%;
+}
+
+h1 {
+text-align:center;
+}
+
+img {
+text-align:center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    }
+
+h1 {
+text-align:center;
+}
+
